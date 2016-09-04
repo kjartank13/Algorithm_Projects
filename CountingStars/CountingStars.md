@@ -10,28 +10,9 @@ Each test case begins with a line containing a pair of integers 1≤m,n≤100. T
 #Output
 For each case, display the case number followed by the number of stars that are visible in the corresponding image. Follow the format of the sample output.
 
-<b>Sample input</b>
 
-10 20
-
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#---
-\#\#-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#--
-\#---\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
-\#\#-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
-\#\#\#\#\#\#\#\#---\#\#\#\#\#\#\#\#\#
-\#\#\#\#\#\#\#-----\#\#\#\#\#\#\#\#
-\#\#\#\#\#\#\#\#---\#\#\#\#\#\#\#\#\#
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#--
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#---
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#-\#
-
-3 10
-
-\#-\#\#\#\#\#\#\#\#
-----------
-\#-\#\#\#\#\#\#\#\#
-
-<b>Sample output</b>
-
-Case 1: 4
-Case 2: 1
+#Additional info
+<b>Time limit: </b> 2 seconds
+<b>Memory limit:</b> 1024 MB
+<b>Author(s): </b> Greg Hamerly
+<b>Source: </b> 2012 ICPC World Finals Practice
