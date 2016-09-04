@@ -13,6 +13,15 @@ For each case, display the case number followed by the number of stars that are 
 
 #Additional info
 <b>Time limit: </b> 2 seconds
+
+
+
 <b>Memory limit:</b> 1024 MB
+
+
+
 <b>Author(s): </b> Greg Hamerly
+
+
+
 <b>Source: </b> 2012 ICPC World Finals Practice
