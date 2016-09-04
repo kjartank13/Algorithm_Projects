@@ -13,6 +13,7 @@ For each case, display the case number followed by the number of stars that are 
 <b>Sample input</b>
 
 10 20
+
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#---
 \#\#-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#--
 \#---\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
@@ -23,7 +24,9 @@ For each case, display the case number followed by the number of stars that are 
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#--
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#---
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#-\#
+
 3 10
+
 \#-\#\#\#\#\#\#\#\#
 ----------
 \#-\#\#\#\#\#\#\#\#
